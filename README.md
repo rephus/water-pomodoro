@@ -14,3 +14,11 @@ I reused  a milk dispenser from my coffee machine to case everything and place i
 
 Every morning when I arrive to my home office, I place a cup on the water dispenser, and it will automatically start adding water every hour. 
 
+
+![](front.jpg) 
+
+
+## Schema 
+
+
+![](bb.png) 
